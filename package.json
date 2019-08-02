@@ -1,0 +1,70 @@
+{
+  "_from": "react-native-google-fit@0.9.14",
+  "_id": "react-native-google-fit@0.9.14",
+  "_inBundle": false,
+  "_integrity": "sha512-Z+AXsZ39udeUTwKQPKZIu18K87yCx+xQQh5zAzTJvKC9L8Hft0hm3Q/wGI6mrDv/6M+YX0o2WHjYYPxHOObkvw==",
+  "_location": "/react-native-google-fit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-google-fit@0.9.14",
+    "name": "react-native-google-fit",
+    "escapedName": "react-native-google-fit",
+    "rawSpec": "0.9.14",
+    "saveSpec": null,
+    "fetchSpec": "0.9.14"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-google-fit/-/react-native-google-fit-0.9.14.tgz",
+  "_shasum": "fabef09233c784ea2e95abe7c153439c4e16523d",
+  "_spec": "react-native-google-fit@0.9.14",
+  "_where": "/Users/dssureshk/Documents/Ideas/Wishbone/Development/gitrepos/wishbone-mobile/wishbone-mobile/wishbonemobile",
+  "bugs": {
+    "url": "https://github.com/StasDoskalenko/react-native-google-fit/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A React Native bridge module for interacting with Google Fit",
+  "devDependencies": {
+    "babel-eslint": "10.0.1",
+    "eslint": "5.15.0",
+    "eslint-config-standard": "12.0.0",
+    "eslint-config-standard-react": "7.0.2",
+    "eslint-plugin-babel": "5.2.1",
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jsx-a11y": "6.2.1",
+    "eslint-plugin-node": "7.0.1",
+    "eslint-plugin-promise": "4.0.1",
+    "eslint-plugin-react": "7.12.4",
+    "eslint-plugin-standard": "4.0.0",
+    "react-native": "0.58.6"
+  },
+  "homepage": "https://github.com/StasDoskalenko/react-native-google-fit#readme",
+  "keywords": [
+    "react-native",
+    "google-fit",
+    "Google",
+    "health",
+    "healthkit",
+    "fit",
+    "google fit",
+    "android",
+    "fitness",
+    "native",
+    "ReactNative"
+  ],
+  "license": "MIT",
+  "main": "index.android.js",
+  "name": "react-native-google-fit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StasDoskalenko/react-native-google-fit.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.9.14"
+}
